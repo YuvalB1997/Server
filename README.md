@@ -1,5 +1,5 @@
 # Server
-TPC servers that simulated a registration of students to courses in university
+TPC server that simulates a registration of students to courses in university
 
 A server that hold a database (java server) and client (c++).
 The server works as a registration system for students who want to register to different courses.
